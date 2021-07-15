@@ -1,0 +1,7 @@
+C:\Users\islan\GK_CS\homework2\Task1_B\bin\Debug\Task1_B.exe.config
+C:\Users\islan\GK_CS\homework2\Task1_B\bin\Debug\Task1_B.exe
+C:\Users\islan\GK_CS\homework2\Task1_B\bin\Debug\Task1_B.pdb
+C:\Users\islan\GK_CS\homework2\Task1_B\obj\Debug\Task1_B.csproj.CoreCompileInputs.cache
+C:\Users\islan\GK_CS\homework2\Task1_B\obj\Debug\Task1_B.exe
+C:\Users\islan\GK_CS\homework2\Task1_B\obj\Debug\Task1_B.pdb
+C:\Users\islan\GK_CS\homework2\Task1_B\obj\Debug\Task1_B.csproj.AssemblyReference.cache
