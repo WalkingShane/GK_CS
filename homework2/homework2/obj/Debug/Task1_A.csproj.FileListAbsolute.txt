@@ -1,0 +1,6 @@
+C:\Users\islan\GK_CS\homework2\homework2\bin\Debug\homework2.exe.config
+C:\Users\islan\GK_CS\homework2\homework2\bin\Debug\homework2.exe
+C:\Users\islan\GK_CS\homework2\homework2\bin\Debug\homework2.pdb
+C:\Users\islan\GK_CS\homework2\homework2\obj\Debug\Task1_A.csproj.CoreCompileInputs.cache
+C:\Users\islan\GK_CS\homework2\homework2\obj\Debug\homework2.exe
+C:\Users\islan\GK_CS\homework2\homework2\obj\Debug\homework2.pdb
