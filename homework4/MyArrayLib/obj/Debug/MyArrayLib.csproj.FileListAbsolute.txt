@@ -1,0 +1,6 @@
+C:\Users\islan\GK_CS\homework4\MyArrayLib\bin\Debug\MyArrayLib.dll
+C:\Users\islan\GK_CS\homework4\MyArrayLib\bin\Debug\MyArrayLib.pdb
+C:\Users\islan\GK_CS\homework4\MyArrayLib\obj\Debug\MyArrayLib.csproj.AssemblyReference.cache
+C:\Users\islan\GK_CS\homework4\MyArrayLib\obj\Debug\MyArrayLib.csproj.CoreCompileInputs.cache
+C:\Users\islan\GK_CS\homework4\MyArrayLib\obj\Debug\MyArrayLib.dll
+C:\Users\islan\GK_CS\homework4\MyArrayLib\obj\Debug\MyArrayLib.pdb
