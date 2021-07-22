@@ -5,6 +5,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Руслан Островский
+
 namespace Task4
 {
     //Решить задачу с логинами из урока 2, только логины и пароли считать из файла в массив. Создайте структуру Account, содержащую Login и Password.
@@ -74,20 +76,29 @@ namespace Task4
         {
             int tries = 3;
             string lgnTry, pswdTry;
-            Console.Write("Необходимо пройти авторизацию в системе. Число попыток ограничено - {0}.", tries);
+            Console.WriteLine("Необходимо пройти авторизацию в системе.");
             while (tries > 0)
             {
-
+                Console.WriteLine("Количество оставшихся попыток - {0}.", tries);
                 Console.Write("Введите логин:");
                 lgnTry = Console.ReadLine();
                 Console.Write("\nВведите пароль:");
                 pswdTry = Console.ReadLine();
+
                 for (int i = 0; i < accounts.Length; i++)
                     if (lgnTry == accounts[i].Login && pswdTry == accounts[i].Password)
+                    {
+                        Console.WriteLine("Доступ разрешен.");
                         return true;
-            }
+                    }
 
-            return true;
+                tries--;
+                Console.WriteLine("Логин и/или пароль введены неправильно.");
+
+            }
+            Console.WriteLine("Доступ запрещен.");
+
+            return false;
         }
 
         static void Main(string[] args)
@@ -95,9 +106,13 @@ namespace Task4
             string fileName = AppDomain.CurrentDomain.BaseDirectory + "accounts.txt";
 
             Account[] accounts = ReadAccountsFromFile(fileName);
-            for (int i = 0; i < accounts.Length; i++)
-                Console.WriteLine($"login - {accounts[i].Login}, password - {accounts[i].Password}");
 
+
+            if (Authorization(accounts))
+            {
+                Console.WriteLine("Добро пожаловать.");
+            }
+            else Console.WriteLine("Выход.");
 
 
             Console.ReadKey();
