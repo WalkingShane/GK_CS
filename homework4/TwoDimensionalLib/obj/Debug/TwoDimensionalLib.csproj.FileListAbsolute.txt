@@ -1,0 +1,6 @@
+C:\Users\islan\GK_CS\homework4\TwoDimensionalLib\bin\Debug\TwoDimensionalLib.dll
+C:\Users\islan\GK_CS\homework4\TwoDimensionalLib\bin\Debug\TwoDimensionalLib.pdb
+C:\Users\islan\GK_CS\homework4\TwoDimensionalLib\obj\Debug\TwoDimensionalLib.csproj.CoreCompileInputs.cache
+C:\Users\islan\GK_CS\homework4\TwoDimensionalLib\obj\Debug\TwoDimensionalLib.dll
+C:\Users\islan\GK_CS\homework4\TwoDimensionalLib\obj\Debug\TwoDimensionalLib.pdb
+C:\Users\islan\GK_CS\homework4\TwoDimensionalLib\obj\Debug\TwoDimensionalLib.csproj.AssemblyReference.cache
