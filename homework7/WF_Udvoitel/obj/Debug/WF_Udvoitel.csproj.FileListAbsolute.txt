@@ -1,0 +1,10 @@
+C:\Users\islan\GK_CS\homework7\WF_Udvoitel\bin\Debug\WF_Udvoitel.exe.config
+C:\Users\islan\GK_CS\homework7\WF_Udvoitel\bin\Debug\WF_Udvoitel.exe
+C:\Users\islan\GK_CS\homework7\WF_Udvoitel\bin\Debug\WF_Udvoitel.pdb
+C:\Users\islan\GK_CS\homework7\WF_Udvoitel\obj\Debug\WF_Udvoitel.csproj.AssemblyReference.cache
+C:\Users\islan\GK_CS\homework7\WF_Udvoitel\obj\Debug\WF_Udvoitel.Form1.resources
+C:\Users\islan\GK_CS\homework7\WF_Udvoitel\obj\Debug\WF_Udvoitel.Properties.Resources.resources
+C:\Users\islan\GK_CS\homework7\WF_Udvoitel\obj\Debug\WF_Udvoitel.csproj.GenerateResource.cache
+C:\Users\islan\GK_CS\homework7\WF_Udvoitel\obj\Debug\WF_Udvoitel.csproj.CoreCompileInputs.cache
+C:\Users\islan\GK_CS\homework7\WF_Udvoitel\obj\Debug\WF_Udvoitel.exe
+C:\Users\islan\GK_CS\homework7\WF_Udvoitel\obj\Debug\WF_Udvoitel.pdb

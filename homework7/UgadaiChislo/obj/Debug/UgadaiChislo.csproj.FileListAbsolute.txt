@@ -1,0 +1,10 @@
+C:\Users\islan\GK_CS\homework7\UgadaiChislo\bin\Debug\UgadaiChislo.exe.config
+C:\Users\islan\GK_CS\homework7\UgadaiChislo\bin\Debug\UgadaiChislo.exe
+C:\Users\islan\GK_CS\homework7\UgadaiChislo\bin\Debug\UgadaiChislo.pdb
+C:\Users\islan\GK_CS\homework7\UgadaiChislo\obj\Debug\UgadaiChislo.csproj.AssemblyReference.cache
+C:\Users\islan\GK_CS\homework7\UgadaiChislo\obj\Debug\UgadaiChislo.Form1.resources
+C:\Users\islan\GK_CS\homework7\UgadaiChislo\obj\Debug\UgadaiChislo.Properties.Resources.resources
+C:\Users\islan\GK_CS\homework7\UgadaiChislo\obj\Debug\UgadaiChislo.csproj.GenerateResource.cache
+C:\Users\islan\GK_CS\homework7\UgadaiChislo\obj\Debug\UgadaiChislo.csproj.CoreCompileInputs.cache
+C:\Users\islan\GK_CS\homework7\UgadaiChislo\obj\Debug\UgadaiChislo.exe
+C:\Users\islan\GK_CS\homework7\UgadaiChislo\obj\Debug\UgadaiChislo.pdb
